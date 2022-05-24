@@ -1,4 +1,4 @@
-# DesktopFacebookApp
+## DesktopFacebookApp
 Desktop facebook application using Facebook api -  
 includes 2 "new" features :  
 1.Friend Statistics - get various statistic information about your friends.  
